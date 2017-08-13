@@ -2,16 +2,37 @@
 
 Welcome to Telusko Kitchen
 
-Kheer
-Pasta
-Chicken Fry
+We Will Do This Recipes For Code Testing Purpose :-p
 
-Beans
-Pizza
+Veg:
+  Kheer
+  Pasta
+  Pav Bhaji
+  Pani puri
+  Samosa
+  Masala Dosa
+  Sweet Corn Soup
+  
 
-thank you :)
+Non-Veg:
+  Burger
+  Fried Rice
+  Chicken Fry
+  Hot & Sour Soup
+  
+  
+Ingredients :
+  Beans 
+  Pizza
+  Bread 
+  Butter
+  Pav
+  Tomato
+  Potato
+  Onion
 
-Done my changes
+Steps TO Follow :
+There are 2 Methods You Can Eat Food By Either Going To Hotel Or If You Are A
+Computer Geek You Can Go To Any Food Ordering Website & Order It. :-p :-D
 
-Final Copy
-
+Thank You :-) ;-)
