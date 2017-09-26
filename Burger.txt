@@ -1,0 +1,5 @@
+1.Go to www.mcdelivery.co.in/
+2.Go to order page
+3.Select Your burger.
+4.Complete order
+5.Enjoy Burger. 
