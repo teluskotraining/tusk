@@ -1,0 +1,4 @@
+MSDB
+1. sysmail_profile
+2. sysmail_account
+3. sysmail_server
