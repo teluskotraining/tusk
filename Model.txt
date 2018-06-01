@@ -1,0 +1,11 @@
+Suggestions from Saumitra.
+
+
+while(teacher is teaching)
+{
+  pay attention;
+  don't talk;
+  make notes;
+}
+
+Thank you :)
