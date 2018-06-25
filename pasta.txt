@@ -1,0 +1,6 @@
+go to dominos.com
+search for pasta
+add required veggies
+submit order
+
+order will be ready in 15 minutes
