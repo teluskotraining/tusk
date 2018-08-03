@@ -1,0 +1,5 @@
+Customer called to Tech support: “my computer is not connecting to Internet”
+Tech support: “Ok, which operating system are you using?”
+Customer: “Internet explorer”!
+Tech support: “No, you just right click on “my computer” and click on the properties menu”
+Customer: “what are you saying, this is not your computer, it is my computer”!
