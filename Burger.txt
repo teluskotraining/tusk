@@ -1,0 +1,9 @@
+Hey Naveen
+
+1. Go to KFC
+2 Check menu card and select which you want to order
+3.order burger
+4.Pay money 
+5.Delivered 
+
+Thanks
