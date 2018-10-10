@@ -1,0 +1,12 @@
+//creating maggi by raj
+
+purchase maggi
+open maggi packet
+put a heating bowl half filled with water on heater
+put maggiin it
+put all spices
+put some salt
+after 10 min maggi will be ready
+eat delicious maggi
+
+thank telusko you sir for teaching this 
