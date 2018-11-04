@@ -1,0 +1,7 @@
+
+
+1.go to kfc
+2.order berger
+3.pay 70rs
+4.eat 2 bergers.
+5.thank u :)
