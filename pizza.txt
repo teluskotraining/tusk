@@ -7,3 +7,6 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+
+instend of ordering from Dominos.com order from pizzahut.com , but pizzahu littel bit costaly :P
+Just trying  to understande the concepts .
