@@ -7,3 +7,7 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+Note: We can even order from Pizzahut or Mozo Pizza
+
+Reagrds
+Git_Learner 
