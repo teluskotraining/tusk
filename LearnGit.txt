@@ -1,0 +1,8 @@
+Steps to learn Git:
+
+1. Find good Git books (like Pro Git available at https://git-scm.com/book/en/v2)
+2. Try to read and understand the book.
+3. Get bored.
+4. Search for video tutorials.
+5. Stumble upon Telusko tutorial for Git beginners.
+6. Watch the tutorial and learn Git basics.
