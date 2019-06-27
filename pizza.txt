@@ -1,9 +1,11 @@
 
 
-Recipe from Navin Reddy
+Recipe from vamshi
 
+flour,Bakingpowder,cheese,base,yeast
+Make the dough
+preheat the oven
+make the pizza
 
-1. Go to Dominos.com
-2. Select the pizza.
-3. Order
+done change
 
