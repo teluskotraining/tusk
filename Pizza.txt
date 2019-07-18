@@ -1,0 +1,3 @@
+open dominos.com
+select pizza
+order pizza
