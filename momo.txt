@@ -1,0 +1,3 @@
+open zomato
+select veg momo
+placr order
