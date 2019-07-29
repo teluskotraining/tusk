@@ -1,0 +1,4 @@
+login to zomato app
+Search for your favourite resturant
+select the burger to buy
+place order
