@@ -1,0 +1,12 @@
+
+recipe for grill chicken
+
+open swiggy
+selct hotel
+select grill
+select quantity
+order it
+
+thankyou for the tutorial vedio in github ok
+my name is chandu p c
+from kerala
