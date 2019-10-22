@@ -1,0 +1,10 @@
+go to kitchen
+
+look for burger!
+
+if(burgerNotfound)
+{
+order online!
+}
+
+thank you :)
