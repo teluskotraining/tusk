@@ -3,7 +3,9 @@
 Recipe from Navin Reddy
 
 
-1. Go to Dominos.com
+1. Go to pizzahut.com
 2. Select the pizza.
-3. Order
+3. Select the toppings
+4. Select beverages
+5. Order
 
