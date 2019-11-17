@@ -7,3 +7,5 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+Modifying this text to add new functionalities
+and thanks Telusko for great and analysing tutorials
