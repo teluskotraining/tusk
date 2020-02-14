@@ -1,0 +1,5 @@
+fries recipe
+
+boil potato
+slice potato
+fry potato in oil
