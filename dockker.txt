@@ -11,3 +11,5 @@ find the enemy
 kill the full squad
 
 go to goregopal
+
+pick falre gun
