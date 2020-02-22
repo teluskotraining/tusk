@@ -5,3 +5,5 @@ select the drop location
 landed in pochinki
 
 search for the gun
+
+find the enemy
