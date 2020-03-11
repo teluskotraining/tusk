@@ -1,0 +1,10 @@
+
+
+recipe from ayush naithani
+
+1. call dominos
+2. ask for number of pizza hut
+3. call pizza hut 
+4. select and order pizza
+
+(pizza hut is better than dominos :D ) 
