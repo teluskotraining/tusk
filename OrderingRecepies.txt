@@ -1,0 +1,7 @@
+///Steps for ordering pizza
+
+
+1.Browse the Dominos app
+2.Select the type.
+3.Select if extra seasoning needed.
+4.Place order and confirm payment.
