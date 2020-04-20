@@ -5,5 +5,8 @@ Recipe from Navin Reddy
 
 1. Go to Dominos.com
 2. Select the pizza.
-3. Order
+3. select base
+4. select toppings
+5. select payment method and address
+6. Order
 
