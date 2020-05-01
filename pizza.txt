@@ -3,7 +3,8 @@
 Recipe from Navin Reddy
 
 
-1. Go to Dominos.com
-2. Select the pizza.
-3. Order
+1. Go to Dominos app
+2. Select the pizza
+3. select the payment option 
+4. Order
 
