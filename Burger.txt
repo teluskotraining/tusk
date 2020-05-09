@@ -1,0 +1,5 @@
+Go to Burgerking.com
+Order a spicy chicken Hot burger
+Input payment details
+Collect the burger at home
+Stay home safely
