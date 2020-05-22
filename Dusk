@@ -1,0 +1,5 @@
+
+print("Hello world")
+
+nums = [22,11,56,333,442,1,9]
+sorted(nums)
