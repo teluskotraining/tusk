@@ -1,0 +1,6 @@
+
+print("Hello There")
+
+nums = [22, 11, 56,79,11, 99,999]
+
+sorted(nums)
