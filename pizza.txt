@@ -7,3 +7,7 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+1. Go to Kitchen
+2. Say Mom i want pizza
+3. She will make pizza for you with lots of love
+
