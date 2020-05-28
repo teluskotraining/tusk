@@ -7,4 +7,5 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 4. Get extra oregano
+5. Extra ketchup
 
