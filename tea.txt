@@ -1,0 +1,8 @@
+//Follow Steps carefully to make a good and tasty tea
+1.  Take about 1 cup of water (for each person)
+2.  Add around 1 teaspoon full of tea.
+3.  Add 1 teaspoon full of sugar per cup.
+4.  Add 1/4th milk of total water added initially.
+5.  Let it boil for 5 minutes.
+
+    TEA IS NOW READY TO SERVE ENJOY IT......
