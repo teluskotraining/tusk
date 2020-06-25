@@ -1,0 +1,3 @@
+Hi Navin, how are you. I am looking to use opensource software (openfoam and liggghts) to run numerical simulation of physics problem. Can you suggest me, how I can learn the structure of open source software, how it works? and how to understand .sh files and how the script files work with the source code. Thank you :)
+
+Best wishes.
