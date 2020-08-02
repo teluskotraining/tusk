@@ -1,0 +1,4 @@
+#buy a whistle
+#keep it in mouth
+#blow air into the whistle'
+#if u can hear the sound then whistle is working
