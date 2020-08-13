@@ -1,0 +1,8 @@
+Steps to follow to solve a machine learning problem:
+
+1. Defining Problem Statement
+2. Collecting the data
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Modelling
+6. Testing
