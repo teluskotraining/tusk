@@ -1,0 +1,5 @@
+go to resturant.
+call the waiter.
+ask for biryani.
+eat.
+pay.
