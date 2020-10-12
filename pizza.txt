@@ -3,7 +3,9 @@
 Recipe from Navin Reddy
 
 
-1. Go to Dominos.com
+1. Go to Dominos.com.
 2. Select the pizza.
-3. Order
+3. Order.
+4. Wait till Delivered.
+5. Enjoy your pizza :).
 
