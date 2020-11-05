@@ -1,0 +1,9 @@
+A very simple healthy recipe, provided, You have all the ingredients.
+
+1. Buy pasta packet.
+2. Buy pasta sauce
+3. Cut brocolli and grate bell pepper
+4. Boil pasta with water and once it is soft enough, transfer it to the sauce.
+5. Add the vegetables you cut and mix and cook well.
+
+You're done!!
