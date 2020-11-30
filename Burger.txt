@@ -1,0 +1,8 @@
+
+Go to Mcdonallds
+Choose Burger
+Order Burger
+Pay Amount
+
+
+Regards
