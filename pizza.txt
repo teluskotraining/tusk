@@ -4,6 +4,8 @@ Recipe from Navin Reddy
 
 
 1. Go to Dominos.com
-2. Select the pizza.
-3. Order
+2. Selet the base type
+3. Select veg or Non Veg Pizza
+4. Click on Order
+5. Pay for the Pizza
 
