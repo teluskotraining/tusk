@@ -1,0 +1,7 @@
+Sandwich Recipe
+
+1. Open Zomato App
+2. Search for good restaurants
+3. Order Sandwich
+4. Pay for the food
+5. Done
