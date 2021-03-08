@@ -1,0 +1,12 @@
+
+#include "pizzahut.h"
+
+void main()
+{
+  unsigned int NoOfPizza = 0;
+  
+  printf("\n how many pizza you need : ");
+  scanf("%d", &NoOfPizza);
+  
+  printf("Ordered %d pizzas Successfully");
+}
