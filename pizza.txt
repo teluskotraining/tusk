@@ -7,3 +7,4 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+Thank You for your Order, It's in 30 mins or will be free for you.
