@@ -4,6 +4,7 @@ Recipe from Navin Reddy
 
 
 1. Go to Dominos.com
-2. Select the pizza.
-3. Order
+2. Ask for pizza hut number
+3. Call pizza hut
+4. Order
 
