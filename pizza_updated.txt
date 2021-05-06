@@ -1,0 +1,8 @@
+
+Additional Ingridients that must be added to pizza in order to prepare it more tastier.
+
+1. Add more cheese
+2. Add more toppings
+3. Add some extra spices 
+
+Done with the updated pizza.
