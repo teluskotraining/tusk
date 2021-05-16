@@ -1,0 +1,5 @@
+open packet of maggi
+boil the maggi
+add the flavours
+boil for 3 min more 
+ready to serve in bowl
