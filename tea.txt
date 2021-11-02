@@ -1,0 +1,8 @@
+# Make tea
+
+1. Add some water in pot.
+2. Turn on the gas.
+3. Put pot in the gas.
+4. Boil with tea leaves, milk, and sugar.
+5. Turn off the gas.
+6. Enjoy your tea.
