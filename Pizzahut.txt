@@ -1,0 +1,5 @@
+Recipe by Vishal
+
+1.Go to pizzahut/com
+2.Select Pizza
+3.Place order
