@@ -1,0 +1,5 @@
+steps to order sandwich
+
+1. Go to the product store
+2. select product and pay for it
+3. order the product
