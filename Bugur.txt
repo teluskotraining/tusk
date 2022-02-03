@@ -1,0 +1,5 @@
+''' from sampath '''
+
+1 .go to the online ordering portal
+2.select burgur 
+3.order 
