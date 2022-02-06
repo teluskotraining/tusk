@@ -1,0 +1,11 @@
+
+
+Creataed by Pranay Gattu
+
+1. Go to the Burger King website
+2. select the required Burger
+3. Make Payment and order it
+4. Thats it.. Burger delivered.
+
+
+That's how it's done..!
