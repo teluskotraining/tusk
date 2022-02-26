@@ -1,0 +1,7 @@
+KFC 
+
+Goto kfc.in
+order chicken bucket
+
+
+done.
