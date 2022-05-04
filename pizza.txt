@@ -4,6 +4,8 @@ Recipe from Navin Reddy
 
 
 1. Go to Dominos.com
-2. Select the pizza.
-3. Order
+2.select a medium sized pizza
+3.slect the toppings of your choice
+4.Make payment
+5.Order and eat 
 
