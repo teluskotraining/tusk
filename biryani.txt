@@ -1,0 +1,10 @@
+
+receipe for biryani
+
+1: open zomato
+
+2: select restaurant 
+
+3: order biryani of our budget
+
+4: place order
