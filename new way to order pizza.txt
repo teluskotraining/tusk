@@ -1,0 +1,3 @@
+1.Go to the zomato.
+2.select pizza in which restaurent having offer.
+3.order it.
