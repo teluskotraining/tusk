@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        #reg{
+            text-align: center;
+            position: relative;
+            width: 20%;
+            left: 40%;
+            padding: 10px;
+        
+
+            background-color:blue;
+            color: white;
+        }
+        label{
+            float: left;
+            left: 25%;
+            margin-top: 10px;
+        }
+
+        h2{
+            background-color: grey;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        input{
+            width: 95%;
+            margin-top: 10px;
+            height: 20px;
+        }
+        #btn{
+            margin-top: 20px;
+            width: 95%;
+            height: 30px;
+            font-size: 17px;
+        }
+        .error{
+            background-color: red;
+            color: white;
+            height: 35px;
+            
+            display: flex;
+align-items: center;
+            justify-content: center;
+
+        }
+
+        li{
+
+            position: relative;
+            background-color: gold;
+            color: black;
+            list-style: none;
+        text-align: center;   
+        
+        width: 20%;
+padding: 5px;
+        height: 25px;
+        margin-top: 5px;
+
+        left: 40%;
+        }
+
+        li:first-child{
+            background-color: beige;
+            color: green;
+        }
+        li:nth-child(2){
+            background-color: black;
+            color: yellow;
+        }
+
+        #mover{
+            background-color: blue;
+            color: white;
+            height: 20vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #mout{
+            background-color: red;
+            color:whitesmoke;
+            height: 20vh;
+             display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+<h2> html form </h2>
+    <form id="reg" action="">
+        <h3>ADD USER</h3>
+
+        <h5 class="err"></h5>
+
+
+        <label for="">name:</label><br>
+        <input id="txt" type="text"><br>
+        <label  for="">gmail:</label><br>
+        <input id="gm" type="email">
+        
+        <button id="btn" type="submit">submit</button>
+
+
+    </form>
+
+
+    <div id="mover">
+
+
+        <h1 >mouseover</h1>
+
+
+
+    </div>
+
+    <div id="mout">
+
+
+        <h1>mouse out</h1>
+
+
+
+    </div>
+
+    <!-- <ul id="list">
+
+        <li>HELLO</li>
+        <li>HELLO</li>
+
+
+    </ul> -->
+
+
+
+    <script src="./man.js"> </script>
+    
+</body>
+</html>
