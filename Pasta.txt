@@ -1,0 +1,7 @@
+Heat Water
+Add Salt
+Boil Water
+Add Pasta
+Drain Water once Pasta is cooked
+Add Pasta Sauce
+Pasta Ready
