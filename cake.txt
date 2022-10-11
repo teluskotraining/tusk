@@ -1,0 +1,13 @@
+
+
+
+hello
+here is a cake reciepe from haranath
+
+
+1 go to bakery by vechile
+2 choose fav cake 
+3 select cake
+4 order it
+5 pay the amount
+     THNAK YOU
