@@ -1,0 +1,5 @@
+Recepie steps:
+
+1.go to swiggy
+2.select ur dish
+3.order
