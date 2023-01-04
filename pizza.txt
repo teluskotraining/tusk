@@ -1,9 +1,5 @@
+recipe from anirudh
 
-
-Recipe from Navin Reddy
-
-
-1. Go to Dominos.com
-2. Select the pizza.
-3. Order
-
+1.go to pizzahut.com
+2.select pizza
+3.order and get it delivered
