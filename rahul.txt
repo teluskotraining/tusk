@@ -1,0 +1,12 @@
+How to become a full-stack developer
+
+
+
+First Learn Basiscs DSA
+
+HTML
+CSS
+JAVASCRIPT
+
+REACTJS
+NODEJS
