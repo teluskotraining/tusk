@@ -1,0 +1,5 @@
+recipe from lingaraj
+
+open swiggy app
+check the price and item
+order the item
