@@ -1,0 +1,8 @@
+
+
+open zomato app
+choose the kfc offer
+order it 
+That's it your kfc is ready!
+
+Thank you
