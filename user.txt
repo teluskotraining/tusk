@@ -1,0 +1,4 @@
+go to domino.com
+register user
+set password
+login
