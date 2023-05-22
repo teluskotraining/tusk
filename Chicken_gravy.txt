@@ -1,0 +1,7 @@
+Chicken Gray
+
+i.open swiggy app
+ii.search for chciken gray
+iii.checkt he comments and rating 
+iv.Go for which ever has good rating 
+v.it will reach our home 
