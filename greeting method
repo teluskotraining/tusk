@@ -1,0 +1,19 @@
+thanking navin reddy sir 10 times using js :)
+let greet='Thank you Very much sir for teaching us in a very effective and easy way"
+
+//code
+for(let i=0;i<10;i++){
+console.log(greet)
+}
+
+//expected output
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
+'Thank you Very much sir for teaching us in a very effective and easy way"
