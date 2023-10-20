@@ -1,0 +1,16 @@
+#Superstore Data Analysis README
+##Description
+This R script performs data analysis on the Superstore dataset. It includes data cleaning, customer analysis, and calculates RFM (Recency, Frequency, Monetary) scores for each customer.
+
+##Prerequisites
+Before running this code, ensure you have the following R packages installed:
+
+dplyr
+lubridate
+tidyverse
+readxl
+Hmisc
+janitor
+skimr
+openxlsx
+You can install these packages using the install.packages() function in R.
