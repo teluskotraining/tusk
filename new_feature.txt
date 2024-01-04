@@ -1,0 +1,8 @@
+new_recipe
+
+sharpner dish
+
+1. learn the concept.
+2. practice the concept.
+3. give test and mock
+4. get job.
