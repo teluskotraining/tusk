@@ -1,0 +1,11 @@
+This file by Sachin Gyandor
+
+How to contribute in opensource projects
+
+
+1. Search for the repository in which you want to contribute.
+2. Click on that repository.
+3. Click on Add new file.
+4. Type the file name.
+5. Write the code in that file.
+6. Click on Commit changes.
