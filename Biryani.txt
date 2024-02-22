@@ -1,0 +1,5 @@
+1: Buy Tomatoes
+2: Buy the other essentials
+3: Mix the ingredients
+4: Let it cook for a while
+5: Enjoy your biryani :)
