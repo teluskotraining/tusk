@@ -5,6 +5,7 @@ Welcome to Telusko Kitchen
 Kheer
 Pasta
 Chicken Fry
+Mutton Soup
 
 Beans
 Pizza
