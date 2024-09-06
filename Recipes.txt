@@ -5,6 +5,7 @@ Welcome to Telusko Kitchen
 Kheer
 Pasta
 Chicken Fry
+Biryani
 
 Beans
 Pizza
