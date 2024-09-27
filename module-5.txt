@@ -1,0 +1,43 @@
+# Explaining git concepts
+
+
+  > git: In a non technical way if we define a git then it may be defined as source code management system. We can say that git as a 
+         place where we can do the changes with our codes without actually affecting the main source code. Suppose as we live in a 
+         fast changing world where things changes very fast, so to adapt with the changes our application must also be changed accordingly,
+	 many different people have different types of views of modifying the existing program or making some new program so if we allow
+	 all the people to make changes for a particuar program in thne source code then it would be very difficult to handle with it. 
+	 So to maintain this condition we use "git". One of the most great reason that why git is used is it has the ability to keep a 
+	 track on the different 'versions' of a particular program.
+
+   > Repository: A repository is a place where we have all the related codes/requird folders for a particular organisations/topic on a 
+	        server.To understand let's take a example that a repository is a sign board of a shop which tells us that what the 
+		shop is selling for the customers, in the same way the repository tells the user that what the file from the particular
+		topic consists of. Every organisation/topic has different repository for a particular task which consists codes/statement 
+		regarding the respective task.
+
+   > Remote: As from the defination of the 'git' it is clear that it has the capabablity of controlling the different versions of the 
+	     program so here a 'remote' is a version of a repo on another computer. It is basically used when the code is distributed 
+	     over more than one system.
+
+   > Branching: To keep pace with the change of the demands we must keep updating the existing code. It's not possible to make changes 
+	        everytime in the main code but insted of making changes in main code we generally prefer to do the changes with the 
+		copy of the original code, so this copy of the source code is called as 'branch' and the process of making generating the 
+		branch is referred as branching.
+
+   > Merging: A 'merging' is a way to accept the changes proposed in the branch of the source code. If the changes made in the branch of the 
+	      code is suitable to make the application more efficient then the owner accept the changes.
+
+   > Merge conflicts: This problem occurs when there are two files with the same name but say line 15 of both the files are very diferent from 
+		      each other so at this time the system can't choose which file to choose on the basis of its efficiency. At this time 
+		      the user has to resolve this problem either by making suitable changes or by deleting onen of the file so that the 
+		      file runs correctly.
+
+# The 3 git states:
+
+   > Modified: This is the part where we see the change version of a particular data or task on which we are working earlier.
+
+   > Staging: The staging area may be defined as an intermediate area/process to make changes before submitting it.This intermediate area 
+	      is very useful as we can edit at one time respectively for a particular data.
+
+   > Committed: This is the final stage to make changes for the file. It is always preferred to make only one commit related changes from 
+	        a single topic.
