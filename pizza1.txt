@@ -1,0 +1,9 @@
+
+
+Go to the swiggy 
+search for the satya's recipe
+
+1)select pizza
+2)order
+3)spcify the correct address .
+
