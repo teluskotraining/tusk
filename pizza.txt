@@ -3,7 +3,8 @@
 Recipe from Navin Reddy
 
 
-1. Go to Dominos.com
-2. Select the pizza.
-3. Order
+1. Go to herrico.com
+2. Select the product type.
+3. add your payment info
+place your order
 
